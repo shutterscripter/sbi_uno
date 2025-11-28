@@ -25,7 +25,6 @@ SBI Uno is a Flutter-based mobile banking application UI that provides users wit
 
 ![App Screenshot 2](assets/flutter_02.png)
 
-
 ## Tech Stack
 
 - **Framework**: Flutter
@@ -55,7 +54,7 @@ SBI Uno is a Flutter-based mobile banking application UI that provides users wit
 1. Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/shutterscripter/sbi_uno.git
 cd sbi_uno
 ```
 
